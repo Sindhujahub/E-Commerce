@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Books - My Bookstore</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Beauty</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="cart.html">Cart</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="book-collection">
+        <h2>Explore Our Beauty Products</h2>
+        <div class="book-grid">
+            <div class="book">
+                <img src="images/fantasy1.jpg" alt="Fantasy Book 1">
+                <h3>Lip Glosss</h3>
+                <p>Newly Lanchued lip Gloss</p>
+                <p class="price">1500/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+
+            <div class="book">
+                <img src="images/fantasy2.jpg" alt="Fantasy Book 2">
+                <h3>Foudation </h3>
+                <p>Face Canada Foundation</p>
+                <p class="price">500/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+
+            <div class="book">
+                <img src="images/fantasy3.jpg" alt="Fantasy Book 3">
+                <h3>Eye Liner</h3>
+                <p>The pencil liner |WaterProof Stay upto 14hr..</p>
+                <p class="price">278/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+
+            <div class="book">
+                <img src="images/fantasy4.jpg" alt="Fantasy Book 4">
+                <h3>Blush</h3>
+                <p>recode EveryDay Makeup</p>
+                <p class="price">1000/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+            <div class="book">
+                <img src="images/fantasy5.jpg" alt="Fantasy Book 5">
+                <h3>SunScreen</h3>
+                <p>  The Derma Co SunScreen-SPF 50+++</p>
+                <p class="price">450/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
