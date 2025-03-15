@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electro-Gadgets - Keep Explore</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Electronic Devices</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="cart.html">Cart</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="book-collection">
+        <h2>Explore Our Electronic Gadgets</h2>
+        <div class="book-grid">
+            <div class="book">
+                <img src="images/romance1.jpg" alt="Romance Book 1">
+                <h3>Trimmer</h3>
+                <p>Waikil.L Trimmer 100 min Runtime..</p>
+                <p class="price">375/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+
+            <div class="book">
+                <img src="images/romance2.jpeg" alt="Romance Book 2">
+                <h3>Laptop </h3>
+                <p> HP i5 12th Gen
+                </p>
+                <p class="price">44,990*/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+
+            <div class="book">
+                <img src="images/romance3.jpg" alt="Romance Book 3">
+                <h3>iPhone 13</h3>
+                <p>Apple iPhone 13(Starlight,128GB)</p>
+                <p class="price">44,990/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+
+            <div class="book">
+                <img src="images/romance4.jpg" alt="Romance Book 4">
+                <h3>Noise Icon 2</h3>
+                <p>Wearable Watches</p>
+                <p class="price">599/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+            <div class="book">
+                <img src="images/romance5.jpeg" alt="Romance Book 5">
+                <h3>HeadSet</h3>
+                <p> Enjoy Your Music Now..</p>
+                <p class="price">660/-</p>
+                <button class="add-to-cart">Add to Cart</button>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
