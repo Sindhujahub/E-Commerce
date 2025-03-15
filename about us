@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - My Bookstore</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Us</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="shop.html">Shop</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="cart.html">Cart</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about-section">
+        <h2>Welcome to ShopEase</h2>
+        <p>At ShopEase, we believe that every product holds a unique purpose,  or a world waiting to be explored. Whether you want to buy any item you can purchase easy by siiting at home.</p>
+        
+        <h3>Our Mission</h3>
+        <p>We are dedicated to providing a wide collection of products at affordable prices. Our mission is to create a community of selling for products.</p>
+        
+        <h3>Why Choose Us?</h3>
+        <ul>
+            <li>Curated selection of best-selling and classic books</li>
+            <li>Affordable prices and great deals</li>
+            <li>Easy and secure online shopping experience</li>
+            <li>Fast and reliable customer service</li>
+        </ul>
+
+        <h3>Meet the Team</h3>
+        <p>We are a passionate team of shopping lovers committed to bringing you the best collection of products from different items. Our goal is to make use more accessible and enjoyable for everyone.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ShoEase. All rights reserved.</p>
+    </footer>
+</body>
+</html>
